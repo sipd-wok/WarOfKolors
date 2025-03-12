@@ -55,7 +55,7 @@ export default function Characters() {
                 <img src={feature.img} alt={feature.title} className="mx-auto mb-4 h-16" />
                 <p className="font-bold text-lg">{feature.title}</p>
                 <p className="text-sm text-gray-300">{feature.tier}</p>
-                <button href="https://war-of-kolors.vercel.app/" className={`mt-4 ${feature.buttonColor} text-white px-4 py-2 rounded-sm transition`}>
+                <button> <a href="https://war-of-kolors.vercel.app/" className={`mt-4 ${feature.buttonColor} text-white px-4 py-2 rounded-sm transition`}></a>
                   Play Now
                 </button>
               </div>
@@ -81,7 +81,7 @@ export default function Characters() {
                 <img src={feature.img} alt={feature.title} className="mx-auto mb-4 h-32 w-32" />
                 <p className="font-bold text-lg">{feature.title}</p>
                 <p className="text-sm text-gray-300">{feature.tier}</p>
-                <button className={`mt-4 ${feature.buttonColor} text-white px-4 py-2 rounded-sm transition`}>
+                <button><a href="https://war-of-kolors.vercel.app/" className={`mt-4 ${feature.buttonColor} text-white px-4 py-2 rounded-sm transition`}></a>
                   Play Now
                 </button>
               </div>
