@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="bg-black text-white py-20 px-6">
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-center max-w-5xl">
    
-        <h2 className="text-3xl font-bold">WarOfKolors</h2>
+        <h2 className="text-3xl font-bold">War Of Kolors</h2>
 
   
         <div className="flex flex-wrap justify-center gap-10 text-sm text-center">
