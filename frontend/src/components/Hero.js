@@ -98,6 +98,7 @@ export default function Hero() {
           <img src="/elemental.png" alt="WarOfKolors Illustration" className="max-w-md w-full"/>
         </div>
       </div>
+      
     </section>
   );
 }
