@@ -88,7 +88,7 @@ export default function Hero() {
             </button>
           </div>
 
-          <button className="mt-6 bg-yellow-600 px-6 py-3 rounded-lg font-bold text-white 
+          <button href="https://war-of-kolors.vercel.app/" className="mt-6 bg-yellow-600 px-6 py-3 rounded-lg font-bold text-white 
             hover:bg-yellow-500 transition-all duration-300 shadow-lg">
             Get Started
           </button>
@@ -98,7 +98,7 @@ export default function Hero() {
           <img src="/elemental.png" alt="WarOfKolors Illustration" className="max-w-md w-full"/>
         </div>
       </div>
-      
+
     </section>
   );
 }
