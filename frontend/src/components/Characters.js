@@ -12,7 +12,7 @@ export default function Characters() {
     { img: "/vanguard.png", title: "Class: Vanguard", tier: "Color : White", bgColor: "bg-gray-800", buttonColor: "bg-gray-600 hover:bg-gray-400" },
     { img: "/beastrider.png", title: "Class: Beast Rider", tier: "Color: Pink", bgColor: "bg-pink-900", buttonColor: "bg-pink-500 hover:bg-pink-600" },
     { img: "/warriorprincess.png", title: "Class: Warrior Princesses", tier: "Color: Yellow", bgColor: "bg-yellow-900", buttonColor: "bg-yellow-500 hover:bg-yellow-600" },
-    { img: "/ninja.png", title: "Class : Ninjas", tier: "Color : Green", bgColor: "bg-green-900", buttonColor: "bg-green-500 hover:bg-green-600" },
+    { img: "/ninjagreen.png", title: "Class : Ninjas", tier: "Color : Green", bgColor: "bg-green-900", buttonColor: "bg-green-500 hover:bg-green-600" },
     { img: "/tribalchiefs.png", title: "Class : Tribal Chiefs", tier: "Color : Blue", bgColor: "bg-blue-900", buttonColor: "bg-blue-500 hover:bg-blue-600" },
     { img: "/greatelder.png", title: "Class: Great Elders", tier: "Color : White", bgColor: "bg-gray-800", buttonColor: "bg-gray-600 hover:bg-gray-400" },
     { img: "/sumowrestler.png", title: "Class: Sumo Wrestlers", tier: "Color: Pink", bgColor: "bg-pink-900", buttonColor: "bg-pink-500 hover:bg-pink-600" },
@@ -20,6 +20,7 @@ export default function Characters() {
     { img: "/viking.png", title: "Class : Vinkings", tier: "Color : Green", bgColor: "bg-green-900", buttonColor: "bg-green-500 hover:bg-green-600" },
     { img: "/valkyrie.png", title: "Class : Valkyries", tier: "Color : Red", bgColor: "bg-red-900", buttonColor: "bg-red-500 hover:bg-red-600" },
     { img: "/mech.png", title: "Class: Mech Warriors", tier: "Color : White", bgColor: "bg-gray-800", buttonColor: "bg-gray-600 hover:bg-gray-400" },
+
   ];
 
   return (
