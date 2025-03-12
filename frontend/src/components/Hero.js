@@ -88,10 +88,14 @@ export default function Hero() {
             </button>
           </div>
 
-          <button href="https://war-of-kolors.vercel.app/" className="mt-6 bg-yellow-600 px-6 py-3 rounded-lg font-bold text-white 
-            hover:bg-yellow-500 transition-all duration-300 shadow-lg">
-            Get Started
-          </button>
+          <button> 
+            <a href="https://war-of-kolors.vercel.app/" target="_blank" rel="noopener noreferrer"
+   className="mt-6 bg-yellow-600 px-6 py-3 rounded-lg font-bold text-white 
+              hover:bg-yellow-500 transition-all duration-300 shadow-lg text-center inline-block">
+  Get Started
+</a>
+</button>
+
         </div>
 
         <div className="flex justify-center ml-40">
