@@ -19,7 +19,7 @@ const CharacterCard = ({ character }) => {
         <img src={character.image} alt={character.name} className="w-24 h-24 rounded-md" />
         <h2 className="text-lg font-bold mt-2">{character.name ? character.name : "Unknown"}</h2>
         <p className="text-sm opacity-80">{character.category}</p>
-      </div>
+      </div> 
     </div>
   );
 };
